@@ -10,3 +10,9 @@ Basic android projects developed native or with Flutter framework in android stu
 UI inspiration taken from dribble.
 
 <img src="https://github.com/therrshan/Android-Games/blob/master/Screenshots/music_player.jpg" alt="Game Board" height="500"/>
+
+### 3. Covid Tracker
+
+Currently under development.
+
+<img src="https://github.com/therrshan/Android-Games/blob/master/Screenshots/covid.jpg" alt="" height="500"/>
